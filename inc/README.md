@@ -1,5 +1,6 @@
+<h1>CSC 174</h1>
 
-<nav class="menu">
+<nav class="members">
 <ul>
 <li> <a href="index.php">Home</a> </li>
 <li> <a href="jerrydai.php">Jerry Dai</a> </li>
