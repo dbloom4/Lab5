@@ -3,9 +3,14 @@
 <html lang="en">
 
     <head>
-        <title>Jerry Dai</title>
         <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Jerry Dai</title>
 
+        <link href="css/styles.css" rel="stylesheet">
+        <link href="css/navigation.css" rel="stylesheet">
+        <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="static/jquery.js"></script>
     </head>
 
     <body>
@@ -26,22 +31,17 @@
                 
                 <h2>Personal Bio</h2>
                 <p>
-                    Hi my name is Jerry and I am a junior at the U of R. I'm from Queens, NY but my parents moved to Brooklyn from China when they were in their early 20s. My hobbies are music, lifting, and cooking. My favorite foods include halal, vodka slices, and sushi. I am double majoring in Business and Computer Science and I'm interested in working in finance in the future. Next summer, I will be interning at EY LLP as part of the FSO Technology Advisor Program.
+                    Hi my name is Jerry and I am a junior at the U of R. I'm from Queens, NY but my parents moved to Brooklyn from China when they were in their early 20s. My hobbies are music, lifting, and cooking. My favorite foods include halal, vodka slices, and sushi. Next summer, I will be an intern at EY LLP in the FSO TAP.
                 </p>
 
-                <h2>Associate - Greater Flushing Chamber of Commerce</h2>
+                <h2>Experience</h2>
                 <p>
-                    I designed and programmed the new web portal for the "Flushing Neighborhood 360" marketing campaign. In addition, I worked with local business owners to attract more visitors to the neighborhood, most notably by helping organize a night market featuring the community's small businesses.
+                    As an Associate at the Greater Flushing Chamber of Commerce, I designed and programmed the new web portal for the "Flushing Neighborhood 360" marketing campaign. In addition, I worked with local business owners to attract more visitors to the neighborhood, most notably by helping organize a night market featuring the community's small businesses. At the start-up Aspire, I managed email marketing campaigns and outreach to student groups from various universities. I also took part in some product-testing and product-feedback studies. As a Business Finance Intern at the NYC Seminar and Conference Center, I performed spreadsheet analysis as part of the firm's application for a NY Business Development grant. I helped estimate break-even costs for products with variable pricing and also worked with the senior technical director to help set up server room software/hardware.
                 </p>
                 
-                <h2>Student Success Intern - Aspire</h2>
+                <h2>Education</h2>
                 <p>
-                    At the start-up Aspire, I managed email marketing campaigns and outreach to student groups from various universities. I also took part in some product-testing and product-feedback studies.
-                </p>
-                
-                <h2>Business Finance Intern - NYC Seminar and Conference Center</h2>
-                <p>
-                    I performed spreadsheet analysis as part of the firm's application for a NY Business Development grant. I helped estimate break-even costs for products with variable pricing and also worked with the senior technical director to help set up server room software/hardware.
+                    I am double majoring in Business with a concentration in Finance and Computer Science at the University of Rochester and I'm interested in working in financial services in the future. I went to Stuyvesant H.S. in NYC.
                 </p>
                 
             </div><!--closes content class-->
