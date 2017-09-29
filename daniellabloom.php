@@ -20,8 +20,8 @@
 
 
 	<nav class="menu">
-	<?php include "inc/menu.inc"; ?>
-	</nav>
+              <?php include 'inc/navigation.php'; ?>
+         </nav>
 
 	<h3>Early Life</h3>
 
