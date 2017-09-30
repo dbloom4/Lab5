@@ -22,7 +22,7 @@
             </nav>
 
             <div class="content">
-                
+                <h2><figure><img src="images/philip.jpg" alt="Philip Kallinos"><figcaption>Philip</figcaption></figure></h2>
                 <h2>Background</h2>
                 <p>
                     I am from Lindenhurst, New York. My parents are both immigrants. My father is from Cyprus and my mother is from Thailand. I also have one older sister. I enjoy playing video games and drawing in my free time. My favorite video game is the Dark Souls series. Right now, I am trying to beat Dark Souls 3. I also like cars. This Spring I bought my first car, a Subaru BRZ. My favorite TV show is Game of Thrones and my favorite movie is Pulp Fiction. 
