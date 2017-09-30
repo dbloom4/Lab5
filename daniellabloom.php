@@ -11,15 +11,15 @@
 
 
 <header>
-<h1>The Life Of Daniella Bloom</h1>
-<h2>All about me</h2>
+<h1>Daniella Bloom</h1>
+
 </header>
 
 
 	<nav class="menu">
               <?php include 'inc/navigation.php'; ?>
          </nav>
-
+<h2><figure><img src="images/daniella.jpg" alt="Daniella Bloom"><figcaption>Daniella</figcaption></figure></h2>
 	<h3>Personal Bio</h3>
 
 		<p>I was born and grew up in New York City on the Upper West Side. I lived withmy mom, dad, brother Jamie and brother
