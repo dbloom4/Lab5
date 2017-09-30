@@ -22,7 +22,7 @@
             </nav>
 
             <div class="content">
-                
+                <h2><figure><img src="images/jerry.png" alt="Jerry Dai"><figcaption>Jerry</figcaption></figure></h2>
                 <h2>Personal Bio</h2>
                 <p>
                     Hi my name is Jerry and I am a junior at the U of R. I'm from Queens, NY but my parents moved to Brooklyn from China when they were in their early 20s. My hobbies are music, lifting, and cooking. My favorite foods include halal, vodka slices, and sushi. Next summer, I will be an intern at EY LLP in the FSO TAP.
