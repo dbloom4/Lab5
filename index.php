@@ -6,7 +6,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Assignment Five Home Page</title>
-
+	<?php include 'inc/header.php'; ?>
        
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
         <link href="css/navigation.css" rel="stylesheet">
@@ -15,8 +15,6 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
         <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
         <script type="text/javascript" src="static/jquery.js"></script>
-	<title>Assignment Five Home Page</title>
-        <?php include 'inc/header.php'; ?>
     </head>
 
     <body>
