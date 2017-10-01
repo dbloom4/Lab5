@@ -4,7 +4,7 @@
 
     <head>
         <title>Daniella Bloom</title>
-		<?php include 'inc/header.php'; ?>
+		<?php include 'inc/head.php'; ?>
     </head>
 
 <body>

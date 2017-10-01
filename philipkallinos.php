@@ -4,7 +4,7 @@
 
     <head>
         <title>Philip Kallinos</title>
-		<?php include 'inc/header.php'; ?>
+		<?php include 'inc/head.php'; ?>
     </head>
 
 

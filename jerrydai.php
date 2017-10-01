@@ -4,7 +4,7 @@
 
     <head>
         <title>Jerry Dai </title>
-		<?php include 'inc/header.php'; ?>
+		<?php include 'inc/head.php'; ?>
     </head>
 
     <body>
