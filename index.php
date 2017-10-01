@@ -85,28 +85,3 @@
     </body>
 
 </html>
-
-
-
-
-
-            <!-- navbar menu starts from here -->
-            <div class="nav-class">
-                <nav class="navbar navbar-inverse navbar-static-top" role="navigation">
-                    <div class="navbar-collapse collapse">
-                        <div class="nav-wrapper">
-                            <ul class="nav navbar-nav pull-right">
-
-                                <li><a class="menu-tab" href="index.html">Home</a></li>
-                                <li><a class="menu-tab" href="index.html">Home</a></li>
-                                <li><a class="menu-tab" href="index.html">Home</a></li>
-                                <li><a class="menu-tab" href="index.html">Home</a></li>
-
-                            </ul>
-                        </div>
-                    </div><!-- close navbar-collapse collapse-->
-
-                </nav>
-            </div><!-- close nav-class -->
-
-
