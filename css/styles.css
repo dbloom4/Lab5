@@ -19,7 +19,7 @@ body	{
     margin: 0px;
     padding: 20px;
     height: 200px;
-    background-color: ghostwhite;
+    background-color: lightgray;
     font-size: 24px;
     text-transform: uppercase;
     text-align: center;
@@ -28,44 +28,74 @@ body	{
     justify-content: center;
 }
 
-.content-row {
+.row {
     margin: 0;
     padding: 0;
+    width: 100%;
 }
 
-.content-box {
+.column {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+hr {
     margin: 0;
-    padding: 10px;
-    height: 100%;
+    padding: 0;
 }
 
 figure {
     margin: 0;
     padding: 10px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 figure img {
-    margin: 0;
-    padding: 0;
+    margin: 0 auto;
+    padding: 15px;
     width: 100%;
     height: 100%;
 }
 
-.well {
-    margin: 0;
+.headshot {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.blurb {
+    background-color: none;
+    margin: 0 auto;
     padding: 10px;
 }
 
-.well h2 {
+.blurb h2, .blurb p, .blurb a {
     margin: 0;
-    padding: 0;
+    padding: 25px;
     width: 100%;
 }
 
-.well p {
+.blurb h2, .blurb a {
+    color: darkblue; 
+}
+
+.blurb h2 {
+    padding-bottom: 0;
+}
+
+.blurb h2 a {
+    padding: 0;
+}
+
+footer h2 {
     margin: 0;
-    padding: 0px;
-    width: 100%;
+    padding: 15px;
+    font-size: 16px;
+    text-align: center;
+    background-color: lightgray;
 }
 
 @media (max-width: 1080px) {
