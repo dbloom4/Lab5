@@ -18,7 +18,8 @@ body	{
 .heading {
     margin: 0px;
     padding: 20px;
-    height: 150px;
+    height: 200px;
+    background-color: lightgray;
     font-size: 24px;
     text-transform: uppercase;
     text-align: center;
@@ -45,7 +46,7 @@ hr {
 
 figure {
     margin: 0;
-    padding: 25px;
+    padding: 10px;
     width: 100%;
     height: 100%;
     display: flex;
@@ -55,7 +56,7 @@ figure {
 
 figure img {
     margin: 0 auto;
-    padding: 0;
+    padding: 15px;
     width: 100%;
     height: 100%;
 }
@@ -69,20 +70,24 @@ figure img {
     background-color: none;
     margin: 0 auto;
     padding: 10px;
-    padding-top: 25px;
-    padding-bottom: 25px;
 }
 
-.blurb h2, .blurb p, .blurb a {
+.blurb h2, .blurb p {
     margin: 0;
     padding: 25px;
     width: 100%;
 }
 
+.blurb a {
+    width: 100%;
+}
+
 .blurb h2, .blurb a {
-    padding-top: 0;
-    padding-bottom: 0;
     color: darkblue; 
+}
+
+.blurb h2 {
+    padding-bottom: 0;
 }
 
 .blurb h2 a {
@@ -95,14 +100,6 @@ footer h2 {
     font-size: 16px;
     text-align: center;
     background-color: lightgray;
-}
-
-footer h2:first-child {
-    padding-top: 25px;
-}
-
-footer h2:last-child {
-    padding-bottom: 25px;
 }
 
 @media (max-width: 1080px) {
