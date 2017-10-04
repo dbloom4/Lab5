@@ -57,7 +57,7 @@
                         <div class="blurb">
                             <h2>Education</h2>
                             <p>
-                                I am currently a junior at the University of Rochester. I am studying Business with a concentration in Finance. I plan on completing a minor in math and computer science, hopefully.
+                                I am currently a junior at the University of Rochester. I am studying Business with a concentration in Finance. I plan on completing a minor in math and computer science, hopefully. For high school, I went to Lindenhurst High School.
                             </p>
                         </div><!--closes well class-->
                     </div>
