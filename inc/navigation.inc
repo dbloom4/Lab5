@@ -1,5 +1,5 @@
 <div class="menu nav-class">
-    <nav class="navbar navbar-default navbar-static-top" role="navigation">
+    <nav class="navbar navbar-default navbar-static-top">
          <ul class="nav navbar-nav">
             <li> <a href="index.php">Home</a> </li>
 			<li> <a href="jerrydai.php">Jerry Dai</a> </li>
