@@ -12,5 +12,4 @@ echo
 		<link href="css/styles.css" rel="stylesheet">
         <link href="css/navigation.css" rel="stylesheet">
 ';
-
 ?>
