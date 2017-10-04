@@ -27,6 +27,15 @@ body	{
     justify-content: center;
 }
 
+.heading a {
+    color: black;
+    text-decoration: none;
+}
+
+.heading a:hover {
+    color: darkblue;
+}
+
 .row {
     margin: 0;
     padding: 0;
