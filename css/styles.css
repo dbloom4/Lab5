@@ -28,11 +28,6 @@ body	{
 }
 
 .heading a {
-    color: black;
-    text-decoration: none;
-}
-
-.heading a:hover {
     color: darkblue;
 }
 
