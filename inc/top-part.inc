@@ -21,6 +21,6 @@
 
 	<header>
 		<div class="heading">
-			<h1><a href="index.php"><?php echo $currentTitle ?></a></h1>
+			<h1><?php echo $currentTitle ?></h1>
 		</div>
 	</header>
